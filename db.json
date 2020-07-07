@@ -1,33 +1,33 @@
-[
-    {
-    "heading": "Gotti",
-    "subtitle": "Vojvode Stepe 6, Indjija",
-    "type": 0,
-    "workingHours": "08:00 - 00:00",
-    "photos" : [
-        "https://scontent.fbeg2-1.fna.fbcdn.net/v/t1.0-9/42619673_1879169142167131_2701352361225355264_n.jpg?_nc_cat=103&_nc_sid=a26aad&_nc_ohc=t5M72Cpw7s4AX_gcuUO&_nc_ht=scontent.fbeg2-1.fna&oh=2b635321c3a2de9cdedb497be36530f9&oe=5F148D3C",
-        "https://scontent.fbeg2-1.fna.fbcdn.net/v/t1.0-9/42612069_1879169178833794_8677579717571772416_o.jpg?_nc_cat=109&_nc_sid=a26aad&_nc_ohc=jvahjO_1aLwAX-c5loK&_nc_ht=scontent.fbeg2-1.fna&oh=79d4830831c881a5fcef4e27d7ac8096&oe=5F13D72E",
-        "https://scontent.fbeg2-1.fna.fbcdn.net/v/t1.0-9/42822539_1879169278833784_8579110600104214528_n.jpg?_nc_cat=106&_nc_sid=a26aad&_nc_ohc=-7Mcw99OmAwAX_8IyGn&_nc_ht=scontent.fbeg2-1.fna&oh=aefeba73746162540a523cab7cb9eb36&oe=5F1576C0"
-
-    ],
-    "lat" : 45.048648,
-    "long" : 20.082255
-    },
-    
-    {
-        "heading": "Bahus",
-        "subtitle": "Vojvode Stepe 12, Indjija",
-        "type": 0,
-        "workingHours": "08:00 - 00:00",
-        "photos" : [
-            "https://scontent.fbeg2-1.fna.fbcdn.net/v/t1.0-9/42619673_1879169142167131_2701352361225355264_n.jpg?_nc_cat=103&_nc_sid=a26aad&_nc_ohc=t5M72Cpw7s4AX_gcuUO&_nc_ht=scontent.fbeg2-1.fna&oh=2b635321c3a2de9cdedb497be36530f9&oe=5F148D3C",
-            "https://scontent.fbeg2-1.fna.fbcdn.net/v/t1.0-9/42612069_1879169178833794_8677579717571772416_o.jpg?_nc_cat=109&_nc_sid=a26aad&_nc_ohc=jvahjO_1aLwAX-c5loK&_nc_ht=scontent.fbeg2-1.fna&oh=79d4830831c881a5fcef4e27d7ac8096&oe=5F13D72E",
-            "https://scontent.fbeg2-1.fna.fbcdn.net/v/t1.0-9/42822539_1879169278833784_8579110600104214528_n.jpg?_nc_cat=106&_nc_sid=a26aad&_nc_ohc=-7Mcw99OmAwAX_8IyGn&_nc_ht=scontent.fbeg2-1.fna&oh=aefeba73746162540a523cab7cb9eb36&oe=5F1576C0"
-            
-        ],
-        "lat" : 45.048648,
-        "long" : 20.082255
-    }
-]
-    
-    
+{
+    "list": [
+        {
+            "heading": "Gotti",
+            "subtitle": "Vojvode Stepe 6, Indjija",
+            "type": 0,
+            "workingHours": "08:00 - 00:00",
+            "photos" : [
+                "https://scontent.fbeg2-1.fna.fbcdn.net/v/t1.0-9/42619673_1879169142167131_2701352361225355264_n.jpg?_nc_cat=103&_nc_sid=a26aad&_nc_ohc=t5M72Cpw7s4AX_gcuUO&_nc_ht=scontent.fbeg2-1.fna&oh=2b635321c3a2de9cdedb497be36530f9&oe=5F148D3C",
+                "https://scontent.fbeg2-1.fna.fbcdn.net/v/t1.0-9/42612069_1879169178833794_8677579717571772416_o.jpg?_nc_cat=109&_nc_sid=a26aad&_nc_ohc=jvahjO_1aLwAX-c5loK&_nc_ht=scontent.fbeg2-1.fna&oh=79d4830831c881a5fcef4e27d7ac8096&oe=5F13D72E",
+                "https://scontent.fbeg2-1.fna.fbcdn.net/v/t1.0-9/42822539_1879169278833784_8579110600104214528_n.jpg?_nc_cat=106&_nc_sid=a26aad&_nc_ohc=-7Mcw99OmAwAX_8IyGn&_nc_ht=scontent.fbeg2-1.fna&oh=aefeba73746162540a523cab7cb9eb36&oe=5F1576C0"
+                
+            ],
+            "lat" : 45.048648,
+            "long" : 20.082255
+        },
+        
+        {
+            "heading": "Bahus",
+            "subtitle": "Vojvode Stepe 12, Indjija",
+            "type": 0,
+            "workingHours": "08:00 - 00:00",
+            "photos" : [
+                "https://scontent.fbeg2-1.fna.fbcdn.net/v/t1.0-9/42619673_1879169142167131_2701352361225355264_n.jpg?_nc_cat=103&_nc_sid=a26aad&_nc_ohc=t5M72Cpw7s4AX_gcuUO&_nc_ht=scontent.fbeg2-1.fna&oh=2b635321c3a2de9cdedb497be36530f9&oe=5F148D3C",
+                "https://scontent.fbeg2-1.fna.fbcdn.net/v/t1.0-9/42612069_1879169178833794_8677579717571772416_o.jpg?_nc_cat=109&_nc_sid=a26aad&_nc_ohc=jvahjO_1aLwAX-c5loK&_nc_ht=scontent.fbeg2-1.fna&oh=79d4830831c881a5fcef4e27d7ac8096&oe=5F13D72E",
+                "https://scontent.fbeg2-1.fna.fbcdn.net/v/t1.0-9/42822539_1879169278833784_8579110600104214528_n.jpg?_nc_cat=106&_nc_sid=a26aad&_nc_ohc=-7Mcw99OmAwAX_8IyGn&_nc_ht=scontent.fbeg2-1.fna&oh=aefeba73746162540a523cab7cb9eb36&oe=5F1576C0"
+                
+            ],
+            "lat" : 45.048648,
+            "long" : 20.082255
+        }
+    ]
+}
